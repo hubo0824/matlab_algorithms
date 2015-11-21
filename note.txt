@@ -1,2 +1,2 @@
-This project is used to show math model algorithms using matlab.
+This project is used to show mathematical modeling algorithms using matlab.
 References:数学建模算法大全
